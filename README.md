@@ -9,7 +9,7 @@
 
 Install
 -------
-pkg install git && git clone https://github.com/thuanht567/vss && cd vss && chmod +x * && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.bashrc && source $HOME/.bashrc && exit
+pkg install git && git clone https://github.com/Rouyea/vss && cd vss && chmod +x * && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.bashrc && source $HOME/.bashrc && exit
 
 
 
